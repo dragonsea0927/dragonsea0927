@@ -4,6 +4,7 @@
 
 ### 👩‍💻 &nbsp;About Me
 
+
 💻 &nbsp; Full stack web developer with 7+ years of experience working on a variety of projects with a Bachelor of Science in Software Engineering. \
 💡 &nbsp; With a proven track record of developing a variety of web applications, I bring knowledge and expertise to every project.\
 🌱 &nbsp; Worked on a variety of projects ranging from mobile apps, e-commerce, enterprise portals to mission critical backend services.\
@@ -14,9 +15,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
