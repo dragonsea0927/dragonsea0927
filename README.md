@@ -10,10 +10,8 @@
 🌱 &nbsp; Worked on a variety of projects ranging from mobile apps, e-commerce, enterprise portals to mission critical backend services.\
 💻 &nbsp; Loves clean, proven code, enjoys innovating internally and externally, makes software beautiful, easy to maintain, and delivers great user experiences. \
 💡 &nbsp; Adopts and maintains a semi-vulnerable mindset, fosters a high-performance culture, blends technical and strategic expertise, and applies best practices and optimization techniques. \
-🌱 &nbsp; After refactoring a legacy system, I reduced load times by half and increased user engagement by 30%.\
+🌱 &nbsp; After refactoring a legacy system, I reduced load times by half and increased user engagement by 30%.
 
-<br/>
-<br/>
 <br/>
 
 ### 🛠 &nbsp;Tech Stack
