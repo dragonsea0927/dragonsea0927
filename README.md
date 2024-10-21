@@ -1,5 +1,9 @@
 # &nbsp;Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shinevue&theme=gitdimmed&column=5" />
+</p>
+
 <img alt="Night Coding" src="/hello-github-large.gif" align="right"/>
 
 ### 👩‍💻 &nbsp;About Me
