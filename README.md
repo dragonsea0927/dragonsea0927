@@ -10,7 +10,7 @@
    &nbsp; Worked on a variety of projects ranging from mobile apps, e-commerce, enterprise portals to mission critical backend services.\
 💡 &nbsp; Loves clean, proven code, enjoys innovating internally and externally, makes software beautiful, easy to maintain, and delivers great user experiences. \
   &nbsp; Adopts and maintains a semi-vulnerable mindset, fosters a high-performance culture, blends technical and strategic expertise, and applies best practices and optimization techniques. \
-  &nbsp; After refactoring a legacy system, I reduced load times by half and increased user engagement by 30%.
+  &nbsp; After refactoring a legacy system, I reduced load times by half and increased user engagement by 30%. \
 🌱 &nbsp; I am proficient in writing smart contracts using Solidity and Rust, with a focus on creating efficient and secure decentralized systems. \
    &nbsp; My work involves integrating blockchain protocols into full-stack applications, ensuring smooth interaction between on-chain and off-chain data. \
    &nbsp; I leverage tools such as Web3.js and Ethers.js to bridge the front-end with blockchain networks, providing seamless user experiences for decentralized applications. \
