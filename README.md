@@ -1,4 +1,4 @@
-# &nbsp;Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
+# &nbsp;Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
 <img alt="Night Coding" src="/hello-github-large.gif" align="right"/>
 
