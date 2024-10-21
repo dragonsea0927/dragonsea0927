@@ -6,11 +6,19 @@
 
 
 💻 &nbsp; Full stack web developer with 7+ years of experience working on a variety of projects with a Bachelor of Science in Software Engineering. \
-💡 &nbsp; With a proven track record of developing a variety of web applications, I bring knowledge and expertise to every project.\
-🌱 &nbsp; Worked on a variety of projects ranging from mobile apps, e-commerce, enterprise portals to mission critical backend services.\
-💻 &nbsp; Loves clean, proven code, enjoys innovating internally and externally, makes software beautiful, easy to maintain, and delivers great user experiences. \
-💡 &nbsp; Adopts and maintains a semi-vulnerable mindset, fosters a high-performance culture, blends technical and strategic expertise, and applies best practices and optimization techniques. \
-🌱 &nbsp; After refactoring a legacy system, I reduced load times by half and increased user engagement by 30%.
+   &nbsp; With a proven track record of developing a variety of web applications, I bring knowledge and expertise to every project.\
+   &nbsp; Worked on a variety of projects ranging from mobile apps, e-commerce, enterprise portals to mission critical backend services.\
+💡 &nbsp; Loves clean, proven code, enjoys innovating internally and externally, makes software beautiful, easy to maintain, and delivers great user experiences. \
+  &nbsp; Adopts and maintains a semi-vulnerable mindset, fosters a high-performance culture, blends technical and strategic expertise, and applies best practices and optimization techniques. \
+  &nbsp; After refactoring a legacy system, I reduced load times by half and increased user engagement by 30%.
+🌱 &nbsp; I am proficient in writing smart contracts using Solidity and Rust, with a focus on creating efficient and secure decentralized systems. \
+   &nbsp; My work involves integrating blockchain protocols into full-stack applications, ensuring smooth interaction between on-chain and off-chain data. \
+   &nbsp; I leverage tools such as Web3.js and Ethers.js to bridge the front-end with blockchain networks, providing seamless user experiences for decentralized applications. \
+💻 &nbsp; I have hands-on experience working with token standards like ERC-20 and ERC-721 (NFTs), developing and launching tokens for various use cases, including DeFi protocols and tokenized assets. \
+   &nbsp; I also utilize decentralized storage solutions like IPFS and BigchainDB for off-chain data handling, enhancing the scalability and decentralization of my projects. \
+💡 &nbsp; Security is a top priority in my development process. I regularly conduct thorough smart contract audits using tools like Mythril, Slither, and Oyente, ensuring the protection of assets and information within decentralized systems. \
+   &nbsp; Additionally, I am well-versed in consensus mechanisms like Proof of Work (PoW) and Proof of Stake (PoS), and I implement solutions that maintain the integrity and reliability of blockchain networks. \
+🌱 &nbsp; I am continuously adapting to the evolving blockchain landscape, staying updated on new technologies, protocols, and development tools to deliver innovative and cutting-edge solutions. \
 
 <br/>
 
@@ -43,11 +51,5 @@
 
 
 
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="left">
-<a href="mailto:z.dragonsea145@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
 ![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.svg)
