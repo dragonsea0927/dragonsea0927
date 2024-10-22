@@ -53,6 +53,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust)&nbsp;
+![Web3](https://img.shields.io/badge/-Web3-05122A?style=for-the-badge&logo=web3)&nbsp;
 
 
 
