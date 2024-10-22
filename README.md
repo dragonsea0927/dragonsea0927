@@ -38,6 +38,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=for-the-badge&logo=vue)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=angular)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
