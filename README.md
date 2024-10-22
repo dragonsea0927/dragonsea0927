@@ -54,6 +54,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust)&nbsp;
 ![Web3](https://img.shields.io/badge/-Web3-05122A?style=for-the-badge&logo=web3)&nbsp;
+![Ethers](https://img.shields.io/badge/-Ethers-05122A?style=for-the-badge&logo=ethers)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=for-the-badge&logo=solidity)&nbsp;
+![Truffle](https://img.shields.io/badge/-Truffle-05122A?style=for-the-badge&logo=truffle)&nbsp;
+![Ganache](https://img.shields.io/badge/-Ganache-05122A?style=for-the-badge&logo=ganache)&nbsp;
+![Slither](https://img.shields.io/badge/-Slither-05122A?style=for-the-badge&logo=slither)&nbsp;
+![Testnets](https://img.shields.io/badge/-Testnets-05122A?style=for-the-badge&logo=testnets)&nbsp;
+![Filecoin](https://img.shields.io/badge/-Filecoin-05122A?style=for-the-badge&logo=filecoin)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=aws)&nbsp;
 
 
 
