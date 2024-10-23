@@ -43,6 +43,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=for-the-badge&logo=laravel)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=for-the-badge&logo=wordpress)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c)&nbsp;
